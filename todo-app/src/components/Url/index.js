@@ -1,3 +1,3 @@
-const Url = "http://localhost:3000";
+const Url = "https://simple-todo-88k4.onrender.com";
 
 export default Url;
